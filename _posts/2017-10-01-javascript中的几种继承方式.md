@@ -4,7 +4,7 @@ title:      javascript中的几种继承方式
 subtitle:   js继承
 date:       2017-10-01
 author:     tinypoint
-header-img: img/home-bg-art.jpg.jpg
+header-img: img/home-bg-art.jpg
 catalog: true
 tags:
     - 前端
@@ -17,7 +17,7 @@ tags:
 
 ## 前言
 
-今天是普天同庆的大日子**十月一日国庆节**，祝福祖国国泰民安，繁荣昌盛，而且今年的十一与中秋连在一起，放假时间比过年还长，所以身边的朋友回家的回家，出去浪的出去浪，留我自己苦逼的在宿舍敲代码，不过没关系，误敲代码也要敲出风出风度来，让我们回顾一下在js中是如何实现继承的，话不多说，直接开始
+今天是普天同庆的大日子**十月一日国庆节**，祝福祖国国泰民安，繁荣昌盛，而且今年的十一与中秋连在一起，放假时间比过年还长，所以身边的朋友回家的回家，出去浪的出去浪，留我自己苦逼的在宿舍敲代码，不过没关系，误敲代码也要敲出风度来，让我们回顾一下在js中是如何实现继承的，话不多说，直接开始
 
 ### 原型链继承
 缺点
@@ -238,7 +238,7 @@ Sub.prototype.sayAge = function () {
 var a = new Sub('xiaohong', 22);
 
 a.sayName(); //'xiaohong'  小红成功继承了父类原型的方法
-
+```
 > 参考
 > - [JavaScript高级程序设计（第3版）
 ](https://baike.baidu.com/item/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/10576650)
