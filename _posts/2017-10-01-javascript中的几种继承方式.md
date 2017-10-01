@@ -4,7 +4,7 @@ title:      javascript中的几种继承方式
 subtitle:   js继承
 date:       2017-10-01
 author:     tinypoint
-header-img: img/home-bg-art.jpg
+header-img: img/woman-bg.jpg
 catalog: true
 tags:
     - 前端
