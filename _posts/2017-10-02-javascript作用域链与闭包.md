@@ -6,14 +6,6 @@ date:       2017-10-01
 author:     tinypoint
 header-img: img/home-bg-geek.jpg
 catalog: true
-tags:---
-layout:     post
-title:      理解js就靠它了，详解javascript中的作用域链与闭包
-subtitle:   javascript中的作用域链与闭包
-date:       2017-10-01
-author:     tinypoint
-header-img: img/home-bg-geek.jpg
-catalog: true
 tags:
     - 前端
     - javascript
